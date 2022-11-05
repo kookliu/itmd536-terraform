@@ -19,6 +19,6 @@ module "vpc" {
   tags = local.tags
 
   vpc_tags = {
-    Name = "vpc-liujia"
+    Name = "vpc-application-liujia"
   }
 }

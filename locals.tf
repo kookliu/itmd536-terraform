@@ -1,5 +1,5 @@
 locals {
-  name   = "liujia"
+  name   = "liujia-Application"
   region = "ap-southeast-1"
   availability_zone = "${local.region}a"
 
